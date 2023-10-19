@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IsGHPBmvcSKEMbf1fA3XLF9gxLwSUQIW4pV2hEiXKtk=",
+  "Source": "IntegrationWithKafka",
+  "BasePath": "_content/IntegrationWithKafka",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
